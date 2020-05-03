@@ -8,6 +8,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
 ![GitHub stars](https://img.shields.io/github/stars/rappasoft/laravel-boilerplate.svg?style=social)
 
+### Setup
+
+`git clone https://github.com/sudoist/forget-me-not-app-laravel.git --recurse-submodules`
+
 ### Demo Credentials
 
 **User:** admin@admin.com  
