@@ -10,7 +10,15 @@
 
 ### Setup
 
+#### Clone with submodule. This will get the Laradock instance for this project.
+
 `git clone https://github.com/sudoist/forget-me-not-app-laravel.git --recurse-submodules`
+
+#### Copy create sql file to have correct database.
+
+`cd mysql/docker-entrypoint-initdb.d/`
+
+`cp createdb.sql.example createdb.sql`
 
 ### Demo Credentials
 
